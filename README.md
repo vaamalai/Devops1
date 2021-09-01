@@ -1,2 +1,3 @@
 # Devops1
-devops code 
+devops code
+git fetch
